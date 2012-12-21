@@ -8,6 +8,21 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+enum ClockType {
+    ClockTypeMilitary = 0,
+    ClockTypeHex = 1,
+    ClockTypeRGB = 2
+};
+
+@interface ViewController : UIViewController {
+    
+    __weak IBOutlet UILabel *timeLabel;
+    __weak IBOutlet UILabel *appearanceType;
+    
+    enum ClockType currentType;
+}
+
+
+- (IBAction)changeClockType:(id)sender;
 
 @end
