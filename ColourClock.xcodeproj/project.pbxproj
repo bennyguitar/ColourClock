@@ -25,6 +25,7 @@
 		C0F25ED316840BB6008D3BDD /* screen1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = C0F25ED016840BB6008D3BDD /* screen1.PNG */; };
 		C0F25ED416840BB6008D3BDD /* screen2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = C0F25ED116840BB6008D3BDD /* screen2.PNG */; };
 		C0F25ED516840BB6008D3BDD /* screen3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = C0F25ED216840BB6008D3BDD /* screen3.PNG */; };
+		C0F25ED716840C8B008D3BDD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C0F25ED616840C8B008D3BDD /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		C0F25ED016840BB6008D3BDD /* screen1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen1.PNG; sourceTree = "<group>"; };
 		C0F25ED116840BB6008D3BDD /* screen2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen2.PNG; sourceTree = "<group>"; };
 		C0F25ED216840BB6008D3BDD /* screen3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screen3.PNG; sourceTree = "<group>"; };
+		C0F25ED616840C8B008D3BDD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		C0F25EA816840700008D3BDD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C0F25ED616840C8B008D3BDD /* README.md */,
 				C0F25ECA16840ACC008D3BDD /* icon57.png */,
 				C0F25EC816840A7E008D3BDD /* icon114-01.png */,
 				C0F25ED016840BB6008D3BDD /* screen1.PNG */,
@@ -191,6 +194,7 @@
 				C0F25ED316840BB6008D3BDD /* screen1.PNG in Resources */,
 				C0F25ED416840BB6008D3BDD /* screen2.PNG in Resources */,
 				C0F25ED516840BB6008D3BDD /* screen3.PNG in Resources */,
+				C0F25ED716840C8B008D3BDD /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
