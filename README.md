@@ -6,3 +6,9 @@ This project converts Time to Hex/RGB, and is quite beautiful to look at. This w
 ![ScreenShot](https://raw.github.com/bennyguitar/ColourClock/master/ColourClock/screen1.PNG)
 ![ScreenShot](https://raw.github.com/bennyguitar/ColourClock/master/ColourClock/screen2.PNG)
 ![ScreenShot](https://raw.github.com/bennyguitar/ColourClock/master/ColourClock/screen3.PNG)
+
+
+License
+===========
+
+Distributed under the standard MIT License.
